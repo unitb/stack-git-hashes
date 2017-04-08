@@ -1,13 +1,13 @@
 name:                stack-git-hashes
 version:             0.1.0.0
--- synopsis:
--- description:
+synopsis:            Updates git references in stack config files 
+description:         Updates git references in stack config files
 homepage:            https://github.com/githubuser/stack-git-hashes#readme
-license:             BSD3
+license:             MIT
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2017 Author name here
+author:              Simon Hudon
+maintainer:          simon.hudon@gmail.com
+copyright:           2017 Simon Hudon
 category:            Web
 build-type:          Simple
 extra-source-files:  README.md
